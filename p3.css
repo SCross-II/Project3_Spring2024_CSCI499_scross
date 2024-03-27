@@ -1,0 +1,24 @@
+table.customTable {
+    width: 50%;
+    background-color: #303030; /* Charcoal background */
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: #FFA500; /* Orange border color */
+    border-style: solid;
+    color: #FFFFFF; /* White text color */
+}
+
+table.customTable td, table.customTable th {
+    border-width: 2px;
+    border-color: #FFA500; /* Orange border color */
+    border-style: solid;
+    padding: 5px;
+}
+
+table.customTable th {
+    background-color: #FFA500; /* Orange header background */
+}
+
+.display-none {
+    display:none;
+}
